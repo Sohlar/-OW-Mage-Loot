@@ -1,61 +1,60 @@
 Item name,Slot,Source,SP Gain,effective_SPGain,DataFrame
-Staff of the Shadow Flame,2H,Blackwing Lair,73.72,58.976,freeze
 Staff of the Shadow Flame,2H,Blackwing Lair,52.06,45.2922,icyhot
-Neltharion's Tear,Trinket,Blackwing Lair,43.74,38.0538,icyhot
-Mind Quickening Gem,Trinket,Blackwing Lair,35.58,34.5126,phuss
-Neltharion's Tear,Trinket,Blackwing Lair,39.61,31.688000000000002,freeze
-Claw of Chromaggus,MH,Blackwing Lair,40.83,28.172699999999995,dougie
-Mind Quickening Gem,Trinket,Blackwing Lair,32.35,28.1445,icyhot
-Mind Quickening Gem,Trinket,Blackwing Lair,34.35,26.4495,dmoney
-Mind Quickening Gem,Trinket,Blackwing Lair,30.57,24.456000000000003,freeze
-Mind Quickening Gem,Trinket,Blackwing Lair,33.63,23.2047,dougie
-Shadow Wing Focus Staff,2H,Blackwing Lair,28.7,22.96,freeze
-Neltharion's Tear,Trinket,Blackwing Lair,43.18,22.8854,yinnifer
-Mind Quickening Gem,Trinket,Blackwing Lair,35.73,18.936899999999998,yinnifer
-Master Dragonslayer's Orb,OH,Blackwing Lair,27.17,18.7473,dougie
-Bracers of Arcane Accuracy,Bracer,Blackwing Lair,21.35,18.5745,icyhot
-"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,17.84,17.3048,phuss
-Bracers of Arcane Accuracy,Bracer,Blackwing Lair,18.94,15.152000000000001,freeze
-Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,18.16,14.528,freeze
-Neltharion's Tear,Trinket,Blackwing Lair,18.5,14.245000000000001,dmoney
-Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,18.17,13.990900000000002,dmoney
-Claw of Chromaggus,MH,Blackwing Lair,14.2,13.774,phuss
-Claw of Chromaggus,MH,Blackwing Lair,16.61,12.7897,dmoney
-Neltharion's Tear,Trinket,Blackwing Lair,18.5,12.764999999999999,dougie
-Band of Forced Concentration,Ring,Blackwing Lair,16.04,11.067599999999999,dougie
-Firemaw's Clutch,Belt,Blackwing Lair,10.7,9.309,icyhot
-Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,10.43,9.0741,icyhot
-Firemaw's Clutch,Belt,Blackwing Lair,11.54,8.8858,dmoney
-Band of Forced Concentration,Ring,Blackwing Lair,10.83,8.664,freeze
-Claw of Chromaggus,MH,Blackwing Lair,16.25,8.6125,yinnifer
-Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,8.29,8.0413,phuss
-Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,14.54,7.7062,yinnifer
-Netherwind Bindings,Bracer,Blackwing Lair,8.63,7.508100000000001,icyhot
-"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,8.06,7.0122,icyhot
-"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,8.74,6.992000000000001,freeze
-Bracers of Arcane Accuracy,Bracer,Blackwing Lair,12.97,6.8741,yinnifer
-Cloak of the Brood Lord,Back,Blackwing Lair,6.8,6.596,phuss
+Staff of the Shadow Flame,2H,Blackwing Lair,73.72,58.976,freeze
 Shadow Wing Focus Staff,2H,Blackwing Lair,7.52,6.5424,icyhot
-Bracers of Arcane Accuracy,Bracer,Blackwing Lair,6.68,6.4796,phuss
-Netherwind Bindings,Bracer,Blackwing Lair,6.51,6.314699999999999,phuss
-"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,7.51,5.7827,dmoney
-Cloak of the Brood Lord,Back,Blackwing Lair,6.36,5.5332,icyhot
-Bracers of Arcane Accuracy,Bracer,Blackwing Lair,6.63,5.1051,dmoney
-Netherwind Bindings,Bracer,Blackwing Lair,6.31,5.048,freeze
-"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,7.1,4.898999999999999,dougie
-Netherwind Bindings,Bracer,Blackwing Lair,6.3,4.851,dmoney
-Netherwind Mantle,Shoulder,Blackwing Lair,6.02,4.816,freeze
-Netherwind Mantle,Shoulder,Blackwing Lair,6.04,4.6508,dmoney
-Bracers of Arcane Accuracy,Bracer,Blackwing Lair,6.63,4.5747,dougie
-"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,8.32,4.4096,yinnifer
-Netherwind Bindings,Bracer,Blackwing Lair,6.28,4.3332,dougie
-Band of Forced Concentration,Ring,Blackwing Lair,3.63,2.7951,dmoney
-Angelista's Grasp,Belt,Blackwing Lair,1.74,1.5138,icyhot
-Netherwind Mantle,Shoulder,Blackwing Lair,2.42,1.2826,yinnifer
-Firemaw's Clutch,Belt,Blackwing Lair,1.43,0.9866999999999999,dougie
-Ring of Blackrock,Ring,Blackwing Lair,1.05,0.8085000000000001,dmoney
+Shadow Wing Focus Staff,2H,Blackwing Lair,28.7,22.96,freeze
 Ring of Blackrock,Ring,Blackwing Lair,1.07,0.7383,dougie
-Netherwind Belt,Belt,Blackwing Lair,0.87,0.6699,dmoney
-Firemaw's Clutch,Belt,Blackwing Lair,0.69,0.5519999999999999,freeze
-Firemaw's Clutch,Belt,Blackwing Lair,0.87,0.4611,yinnifer
+Ring of Blackrock,Ring,Blackwing Lair,1.0,0.77,dmoney
+Netherwind Mantle,Shoulder,Blackwing Lair,2.42,1.2826,yinnifer
+Netherwind Mantle,Shoulder,Blackwing Lair,6.02,4.816,freeze
 Netherwind Bindings,Bracer,Blackwing Lair,0.29,0.1537,yinnifer
+Netherwind Bindings,Bracer,Blackwing Lair,6.28,4.3332,dougie
+Netherwind Bindings,Bracer,Blackwing Lair,6.33,4.8741,dmoney
+Netherwind Bindings,Bracer,Blackwing Lair,6.31,5.048,freeze
+Netherwind Bindings,Bracer,Blackwing Lair,6.51,6.314699999999999,phuss
+Netherwind Bindings,Bracer,Blackwing Lair,8.63,7.508100000000001,icyhot
+Netherwind Belt,Belt,Blackwing Lair,1.04,0.8008000000000001,dmoney
+Neltharion's Tear,Trinket,Blackwing Lair,43.21,33.2717,dmoney
+Neltharion's Tear,Trinket,Blackwing Lair,43.74,38.0538,icyhot
+Neltharion's Tear,Trinket,Blackwing Lair,39.61,31.688000000000002,freeze
+Neltharion's Tear,Trinket,Blackwing Lair,43.18,22.8854,yinnifer
+Neltharion's Tear,Trinket,Blackwing Lair,18.5,12.764999999999999,dougie
+"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,17.84,17.3048,phuss
+"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,8.74,6.992000000000001,freeze
+"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,8.32,4.4096,yinnifer
+"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,7.1,4.898999999999999,dougie
+"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,8.39,6.4603,dmoney
+"Mish'undare, Circlet of the Mind Flayer",Helm,Blackwing Lair,8.06,7.0122,icyhot
+Mind Quickening Gem,Trinket,Blackwing Lair,33.63,23.2047,dougie
+Mind Quickening Gem,Trinket,Blackwing Lair,35.04,26.9808,dmoney
+Mind Quickening Gem,Trinket,Blackwing Lair,32.35,28.1445,icyhot
+Mind Quickening Gem,Trinket,Blackwing Lair,30.57,24.456000000000003,freeze
+Mind Quickening Gem,Trinket,Blackwing Lair,35.73,18.936899999999998,yinnifer
+Mind Quickening Gem,Trinket,Blackwing Lair,35.58,34.5126,phuss
+Master Dragonslayer's Orb,OH,Blackwing Lair,27.17,18.7473,dougie
+Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,14.54,7.7062,yinnifer
+Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,18.16,14.528,freeze
+Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,10.43,9.0741,icyhot
+Mantle of the Blackwing Cabal,Shoulder,Blackwing Lair,8.29,8.0413,phuss
+Firemaw's Clutch,Belt,Blackwing Lair,1.43,0.9866999999999999,dougie
+Firemaw's Clutch,Belt,Blackwing Lair,0.69,0.5519999999999999,freeze
+Firemaw's Clutch,Belt,Blackwing Lair,10.7,9.309,icyhot
+Firemaw's Clutch,Belt,Blackwing Lair,11.66,8.978200000000001,dmoney
+Firemaw's Clutch,Belt,Blackwing Lair,0.87,0.4611,yinnifer
+Cloak of the Brood Lord,Back,Blackwing Lair,6.8,6.596,phuss
+Cloak of the Brood Lord,Back,Blackwing Lair,6.36,5.5332,icyhot
+Claw of Chromaggus,MH,Blackwing Lair,40.83,28.172699999999995,dougie
+Claw of Chromaggus,MH,Blackwing Lair,14.2,13.774,phuss
+Claw of Chromaggus,MH,Blackwing Lair,16.25,8.6125,yinnifer
+Claw of Chromaggus,MH,Blackwing Lair,16.31,12.5587,dmoney
+Bracers of Arcane Accuracy,Bracer,Blackwing Lair,21.35,18.5745,icyhot
+Bracers of Arcane Accuracy,Bracer,Blackwing Lair,18.99,14.6223,dmoney
+Bracers of Arcane Accuracy,Bracer,Blackwing Lair,12.97,6.8741,yinnifer
+Bracers of Arcane Accuracy,Bracer,Blackwing Lair,6.68,6.4796,phuss
+Bracers of Arcane Accuracy,Bracer,Blackwing Lair,6.63,4.5747,dougie
+Bracers of Arcane Accuracy,Bracer,Blackwing Lair,18.94,15.152000000000001,freeze
+Band of Forced Concentration,Ring,Blackwing Lair,10.83,8.664,freeze
+Band of Forced Concentration,Ring,Blackwing Lair,16.04,11.067599999999999,dougie
+Band of Forced Concentration,Ring,Blackwing Lair,16.01,12.327700000000002,dmoney
+Angelista's Grasp,Belt,Blackwing Lair,1.74,1.5138,icyhot
+Angelista's Grasp,Belt,Blackwing Lair,2.75,2.1175,dmoney
